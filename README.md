@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Reza Mohammadian</h1>
 <h3 align="center">A Passionate in Data Science and Machine Learning.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d34f3b422c048fb72cb925_Analyze.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadian-reza&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadian-reza" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadian-reza" alt="mohammadian-reza" /></a> </p>
+
 
 - 🔭 I’m currently working on [Sentiment analysis based on YouTube comment](https://github.com/mohammadian-reza/sentiment_analysis)
 
@@ -26,3 +26,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadian-reza&show_icons=true&locale=en&layout=compact" alt="mohammadian-reza" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadian-reza&" alt="mohammadian-reza" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadian-reza" alt="mohammadian-reza" /></a> </p>
