@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Sentiment analysis based on YouTube comment](https://github.com/mohammadian-reza/sentiment_analysis)
+- 🔭 I’m currently working on [Sentiment analysis based on comments](https://github.com/mohammadian-reza/sentiment_analysis)
 
 - 🌱 I’m currently learning **Web scraping, NLP, ETL pipeline**
 
