@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reza Mohammadian</h1>
 <h3 align="center">A Passionate in Data Science, Machine Learning and Bioinformatics.</h3>
-<img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d34f3b422c048fb72cb925_Analyze.gif">
+<img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Molecular_dynamics_of_a_glucose-tolerant_%CE%B2-Glucosidase.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadian-reza&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadian-reza" /> </p>
 
 
