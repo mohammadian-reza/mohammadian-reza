@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reza Mohammadian</h1>
-<h3 align="center">A Passionate in Data Science, Machine Learning and Bioinformatics.</h3>
+<h3 align="center">An enthusiastic about Bioinformatics, Machine Learning, and Data Science.</h3>
 <img align="right" alt="Coding" width="400" src="https://scitechdaily.com/images/DNA-Gene-Therapy-Concept.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadian-reza&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadian-reza" /> </p>
 
