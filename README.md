@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently working on [Sentiment analysis based on comments, Web Scraping](https://github.com/mohammadian-reza/sentiment_analysis)
+- 🔭 I’m currently working on [Protein structural alignment methods](https://github.com/mohammadian-reza/StructAlign)
 
-- 🌱 I’m currently learning **Web scraping, NLP, ETL pipeline**
+- 🌱 I’m currently learning **Deep-Blast-TMvec-Deepfold**
 
-- 🤝 I’m looking for help with [Flavor graph](https://github.com/mohammadian-reza/kmeans)
+- 🤝 I’m looking for help with [DeepBlast](https://github.com/mohammadian-reza/deepblast)
 
 - 💬 Ask me about **Python- Micro Controller**
 
