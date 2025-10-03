@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Protein structural alignment methods](https://github.com/mohammadian-reza/StructAlign)
 
-- 🌱 I’m currently learning **Deep-Blast-TMvec-Deepfold**
+- 🌱 I’m currently learning **GTALIGN-Deepfold**
 
 - 🤝 I’m looking for help with [DeepBlast](https://github.com/mohammadian-reza/deepblast)
 
