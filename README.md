@@ -26,5 +26,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadian-reza&show_icons=true&locale=en&layout=compact" alt="mohammadian-reza" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadian-reza&" alt="mohammadian-reza" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadian-reza" alt="mohammadian-reza" /></a> </p>
