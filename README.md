@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Protein structural alignment methods](https://github.com/mohammadian-reza/StructAlign)
+- 🔭 I’m currently working on [Protein structural alignment methods AND Protein-DNA interaction Prediction](https://github.com/mohammadian-reza/StructAlign)
 
 - 🌱 I’m currently learning **GTALIGN-Deepfold**
 
